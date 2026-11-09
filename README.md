@@ -69,7 +69,7 @@ python3 -m http.server 8000
 5. Atualize o número em `marcas confirmadas`, logo abaixo da faixa.
 6. Intercale claro e escuro na ordem da lista — inclusive entre o último e o primeiro,
    que ficam lado a lado quando a rolagem emenda. Se a faixa passar de ~16 marcas,
-   aumente o `57s` do `.mtrack` para a rolagem não ficar corrida.
+   aumente o `70s` do `.mtrack` para a rolagem não ficar corrida.
 
 ## Manutenção
 
